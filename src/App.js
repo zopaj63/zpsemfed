@@ -62,10 +62,18 @@ class App extends Component {
   render() {
     return (<div className="App" >
       <div className="App-header" >
-        <h1 > My Chat App </h1> </div>
+        <h1 > Web Chat App </h1>
+        <a className="App-link"
+          href="https://github.com/zopaj63/zpsemfed"
+          target="_blank"
+          rel="noreferrer">
+          My GitHub Repository
+        </a>
+      </div>
       <Messages messages={this.state.messages}
         currentMember={this.state.member} />
       <Input onSendMessage={this.onSendMessage} />
+
     </div>
     );
   }

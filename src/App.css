@@ -97,3 +97,7 @@ button {
   border-radius: 8px;
   margin-left: 10px;
 }
+
+.App-link {
+  color: aqua;
+}
