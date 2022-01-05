@@ -2,7 +2,7 @@
 
 Algebra front-end development 2021, Zoran Pajnić.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d17ded68-66b0-44e2-bf97-be15514dc856/deploy-status)](https://app.netlify.com/sites/zopaj63-web-chat-app/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d17ded68-66b0-44e2-bf97-be15514dc856/deploy-status)](https://app.netlify.com/sites/zopaj63-web-chat-app-react/deploys)
 
 ## Available Scripts
 In the project directory, you can run:
